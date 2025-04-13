@@ -7,4 +7,5 @@ Task 1 - Blinking LEDS
 Task 2 - Understanding the UART loopback Functionality
 Task 3 - Develop a UART transmitter module
 Task 4 - Implement a UART transmitter
-Task 5 - Creating a project proposal
+Task 5 - Creating a Project Proposal
+Taak 6 - Executing the Project Plan
