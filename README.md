@@ -8,4 +8,4 @@ Task 2 - Understanding the UART loopback Functionality
 Task 3 - Develop a UART transmitter module
 Task 4 - Implement a UART transmitter
 Task 5 - Creating a Project Proposal
-Task 6 - Executing the Project Plan
+
